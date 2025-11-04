@@ -105,10 +105,10 @@ I enjoy working on **Azure Cloud, Terraform, Docker, Kubernetes, Jenkins, GitHub
 ---
 
 ### 🛠️ Featured Projects
-<a href="https://github.com/anmolkaushik13/Terraform-Azure-Infrastructure" target="_blank"> <img alt="terraformazure" src="https://img.shields.io/badge/Terraform%20Azure%20Infra-0D1117?style=for-the-badge&logo=terraform&logoColor=blueviolet" height="38" align="left"> </a>
-<a href="https://github.com/anmolkaushik13/Azure-CI-CD-Pipeline" target="_blank"> <img alt="azurecicd" src="https://img.shields.io/badge/Azure%20CI/CD%20Pipeline-0D1117?style=for-the-badge&logo=azuredevops&logoColor=blue" height="38" align="left"> </a>
+<a href="https://github.com/anmolkaushik13/Terraform" target="_blank"> <img alt="terraformazure" src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=blueviolet" height="38" align="left"> </a>
+<a href="https://github.com/anmolkaushik13/CI-CD-Pipeline" target="_blank"> <img alt="azurecicd" src="https://img.shields.io/badge/CI/CD%20Pipeline-0D1117?style=for-the-badge&logo=azuredevops&logoColor=blue" height="38" align="left"> </a>
 <a href="https://github.com/anmolkaushik13/Docker-Kubernetes-Demo" target="_blank"> <img alt="dockerkube" src="https://img.shields.io/badge/Docker%20%26%20Kubernetes-0D1117?style=for-the-badge&logo=docker&logoColor=blue" height="38" align="left"> </a>
-<a href="https://github.com/anmolkaushik13/Monitoring-Dashboard" target="_blank"> <img alt="monitoring" src="https://img.shields.io/badge/Monitoring%20with%20Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=orange" height="38" align="left"> </a>
+<a href="https://github.com/anmolkaushik13/Monitoring-Dashboard" target="_blank"> <img alt="monitoring" src="https://img.shields.io/badge/Azure%20Monitor-0D1117?style=for-the-badge&logo=grafana&logoColor=orange" height="38" align="left"> </a>
 
 <br><br><br>
 
