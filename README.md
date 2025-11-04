@@ -57,9 +57,8 @@
 <a href="mailto:anmolkaushik13042000@gmail.com" target="_blank">
   <img align="left" alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="18px"/>
 </a>
-
 <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-  <img align="left" alt="Naukri" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Naukri_Logo.png" height="18px"/>
+  <img align="left" alt="Naukri" src="https://raw.githubusercontent.com/anmolkaushik13/anmolkaushik13/main/Naukri_id5Uu3XyB__1.svg" height="18px"/>
 </a>
 
 
