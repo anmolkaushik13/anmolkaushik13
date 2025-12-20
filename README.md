@@ -94,7 +94,6 @@ I enjoy working on **Azure Cloud, Terraform, Docker, Kubernetes, Jenkins, GitHub
 
 ---
 <br>
-<br>
 
 ---
   
@@ -146,5 +145,4 @@ I enjoy working on **Azure Cloud, Terraform, Docker, Kubernetes, Jenkins, GitHub
 
 ---
 
-### 🧩 Quote  
-"I specialize in building Cloud-Native platforms on Azure. My workflow revolves around defining infrastructure with Terraform, packaging applications via Docker, and deploying them through GitHub Actions into Kubernetes clusters. I ensure system reliability by setting up robust monitoring with Prometheus & Grafana."
+### 🧩 "I specialize in building Cloud-Native platforms on Azure. My workflow revolves around defining infrastructure with Terraform, packaging applications via Docker, and deploying them through GitHub Actions into Kubernetes clusters. I ensure system reliability by setting up robust monitoring with Prometheus & Grafana."
