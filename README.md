@@ -84,21 +84,67 @@ I enjoy working on **Azure Cloud, Terraform, Docker, Kubernetes, Jenkins, GitHub
 
 ### 🧠 Skills & Tools:
 
-<a href="https://azure.microsoft.com" target="_blank"><img align="left" alt="Azure" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></a>
-<a href="https://www.terraform.io" target="_blank"><img align="left" alt="Terraform" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
-<a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"></a>
-<a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-<a href="https://github.com" target="_blank"><img align="left" alt="GitHub" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
-<a href="https://www.jenkins.io" target="_blank"><img align="left" alt="Jenkins" height="42px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a>
-<a href="https://grafana.com" target="_blank"><img align="left" alt="Grafana" height="42px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></a>
-<a href="https://prometheus.io" target="_blank"><img align="left" alt="Prometheus" height="42px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<a href="https://react.dev" target="_blank"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL Server" height="42px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
-<a href="https://nginx.org/" target="_blank"><img align="left" alt="Nginx" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
 
+<p align="left">
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>
+</p>
+---
+
+## 🔧 Tech Stack & Tools
+
+| Category                  | Tools / Technologies                                               |
+| ------------------------- | ------------------------------------------------------------------ |
+| ☁️ Cloud                  | **Azure (AKS, ACR, VMs, Networking, Monitor)**                     |
+| 🛠️ IaC                   | **Terraform, YAML**                                                 |
+| 🔁 CI/CD                  | **Azure DevOps, GitHub Actions**                                   |
+| 🐳 Containers & Runtime   | **Docker, Kubernetes (AKS)**                                       |
+| ☸️ Cloud-Native & Orchestration | **Kubernetes, OpenShift, Docker, Helm**                      |
+| 🧰 Scripting              | **Bash, PowerShell, Python**                                       |
+| 📁 VCS                    | **Git, GitHub, Azure Repos**                                       |
+| 🔍 Observability          | **AppDynamics, Azure Monitor, Log Analytics, Prometheus, Grafana** |
+
+---
 <br>
 <br>
 
